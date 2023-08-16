@@ -1,5 +1,6 @@
 package router
 
 const (
-	EnvRoute = "/env"
+	EnvRoute  = "/env"
+	EchoRoute = "/echo"
 )
